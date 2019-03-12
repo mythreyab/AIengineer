@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GoogleAutoSuggestionSuite" verbose="1">
+  <test name="GoogleAutoSuggestionTest">
+    <classes>
+       <class name="test.TestAutoSuggestion">
+       </class>
+    </classes>
+  </test>
+</suite>
